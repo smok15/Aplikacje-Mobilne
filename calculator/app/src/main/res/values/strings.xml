@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+
+    <string name="basic">Podstawowy</string>
+    <string name="advanced">Zaawansowany</string>
+    <string name="about">Informacje</string>
+    <string name="exit">Wyjście</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="point">.</string>
+    <string name="equals">=</string>
+    <string name="divide">÷</string>
+    <string name="add">+</string>
+    <string name="substract">-</string>
+    <string name="multiply">×</string>
+    <string name="backspace">BKSP</string>
+    <string name="clear">C/CE</string>
+    <string name="change">+/-</string>
+
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="ln">ln</string>
+    <string name="sqrt">sqrt</string>
+    <string name="x2">x^2</string>
+    <string name="xy">x^y</string>
+    <string name="log">log</string>
+
+    <string name="description">Aplikację Wykonał: Sebastian Dresler\nNr.indeksu: 224800</string>
+    <string name="display">Wynik</string>
+</resources>
