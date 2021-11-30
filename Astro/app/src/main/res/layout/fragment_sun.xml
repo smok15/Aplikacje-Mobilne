@@ -12,6 +12,7 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:textColor="@color/white"
-        android:text="siema"/>
+        android:textSize="30sp"
+        android:text="Ustaw wartości do obliczeń!"/>
 
 </FrameLayout>

@@ -7,10 +7,12 @@
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
+        android:id="@+id/moonInfo"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Moon"
         android:gravity="center"
-        android:textColor="@color/black"/>
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:text="Ustaw wartości do obliczeń!"/>
 
 </FrameLayout>
