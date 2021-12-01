@@ -16,7 +16,7 @@ public class Moon extends Fragment {
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_moon, container, false);
         TextView moonText = view.findViewById(R.id.moonInfo);
-        getParentFragmentManager().setFragmentResultListener("data", this, (requestKey, result) -> {
+        getParentFragmentManager().setFragmentResultListener("data1", this, (requestKey, result) -> {
             data[0] = result.getDouble("lat");
             data[1] = result.getDouble("lon");
             data[2] = result.getDouble("int");

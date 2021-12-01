@@ -64,9 +64,9 @@
             android:id="@+id/actualSettings"
             android:layout_width="match_parent"
             android:layout_height="406dp"
+            android:text="Brak ustawień!"
             android:textColor="@color/white"
             android:textSize="25sp"
-            android:text="Brak ustawień!"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/submit" />
 

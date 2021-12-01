@@ -41,6 +41,7 @@ public class Menu extends Fragment implements View.OnClickListener {
         bundle.putDouble("int", data[2]);
         settings.setText("Latitude: " + data[0].toString() + "\nLongitude: " + data[1].toString() + "\nInterval: " + data[2].toString());
         getParentFragmentManager().setFragmentResult("data", bundle);
+        getParentFragmentManager().setFragmentResult("data1", bundle);
     }
 
 
